@@ -69,7 +69,7 @@ int main()
 
   printf("\n");
   long long int result1= naiveGCD(a,b);
-  printf("%d\n",result1);
+  printf("%d\n",result1) ;
   long long int result2 = euclid(a,b);
   printf("%d\n",result2);
 
